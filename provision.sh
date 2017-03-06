@@ -37,4 +37,4 @@ systemctl restart apache2
 echo "\n Ok, should be provissioned, visit your site to verify php is running.(where the X's is your public IP address)\n i.e. xxx.xxx.xxx.xxx/info.php  ...\n"
 
 # self destruct when done...
-rm provision_server.sh
+rm provision.sh
